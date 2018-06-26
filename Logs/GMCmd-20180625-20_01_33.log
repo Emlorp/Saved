@@ -1,0 +1,24 @@
+[2018.06.25-20.01.33:601] 76561198034156887 -> GM SpawnDino( blueprintPath=Blueprint'/Game/Mods/DarkAndLight/object/Monster/Wyvern/Wyvern_Character_BP.Wyvern_Character_BP', spawnDistance=1.000000, spawnYOffset=1.000000, ZOffset=1.000000, DinoLevel=98 ))
+[2018.06.25-20.01.38:457] 76561198034156887 -> GM DoTame
+[2018.06.25-20.08.27:388] 76561198034156887 -> GM GiveItemNum( masterIndexNum=298, quantityOverride=3, qualityOverride=0.000000, bForceBlueprint=0 )
+[2018.06.25-20.08.32:373] 76561198034156887 -> GM GiveItemNum( masterIndexNum=293, quantityOverride=3, qualityOverride=0.000000, bForceBlueprint=0 )
+[2018.06.25-20.08.36:637] 76561198034156887 -> GM GiveItemNum( masterIndexNum=295, quantityOverride=3, qualityOverride=0.000000, bForceBlueprint=0 )
+[2018.06.25-20.14.00:086] 76561198034156887 -> GM GiveItemNum( masterIndexNum=83, quantityOverride=3, qualityOverride=4.000000, bForceBlueprint=0 )
+[2018.06.25-20.14.16:140] 76561198034156887 -> GM GiveItemNum( masterIndexNum=83, quantityOverride=1, qualityOverride=4.000000, bForceBlueprint=0 )
+[2018.06.25-20.16.47:447] 76561198034156887 -> GM InfiniteStats
+[2018.06.25-20.16.53:645] 76561198034156887 -> GM InfiniteStats
+[2018.06.25-20.18.03:970] 76561198034156887 -> GM GiveItemNum( masterIndexNum=39, quantityOverride=1, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.18.09:450] 76561198034156887 -> GM GiveItemNum( masterIndexNum=39, quantityOverride=1, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.18.10:381] 76561198034156887 -> GM GiveItemNum( masterIndexNum=39, quantityOverride=1, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.18.26:046] 76561198034156887 -> GM GiveItemNum( masterIndexNum=18, quantityOverride=5, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.22.14:060] 76561198034156887 -> GM GiveItemNum( masterIndexNum=18, quantityOverride=5, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.22.15:429] 76561198034156887 -> GM GiveItemNum( masterIndexNum=18, quantityOverride=5, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.22.16:235] 76561198034156887 -> GM GiveItemNum( masterIndexNum=18, quantityOverride=5, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.22.16:969] 76561198034156887 -> GM GiveItemNum( masterIndexNum=18, quantityOverride=5, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.28.06:576] 76561198034156887 -> GM InfiniteStats
+[2018.06.25-20.28.34:373] 76561198034156887 -> GM InfiniteStats
+[2018.06.25-20.33.09:928] 76561198034156887 -> GM GiveItemNum( masterIndexNum=39, quantityOverride=50, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.33.13:920] 76561198034156887 -> GM GiveItemNum( masterIndexNum=38, quantityOverride=50, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.34.14:807] 76561198034156887 -> GM GiveItemNum( masterIndexNum=41, quantityOverride=1, qualityOverride=5.000000, bForceBlueprint=0 )
+[2018.06.25-20.37.16:753] 76561198034156887 -> GM ForcePlayerToJoinTargetTribe( PlayerId=353097105 ))
+[2018.06.25-20.47.47:883] 76561198034156887 -> GM GiveItemNum( masterIndexNum=625, quantityOverride=100, qualityOverride=5.000000, bForceBlueprint=0 )
